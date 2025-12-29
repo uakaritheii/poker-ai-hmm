@@ -1,5 +1,7 @@
 # Texas Hold'em Poker AI
 
+All work is in players.lisp.
+
 A poker AI using Hidden Markov Models for opponent modeling. Achieved **60% win rate** over 500 games against 3 baseline opponents (vs. 25% expected in a 4-player game).
 
 ```
